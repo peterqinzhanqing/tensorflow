@@ -1,4 +1,4 @@
 # deep learning
-> [mit_deeplearning] ("http://www.deeplearningbook.org/")  
+> 1. [mit_deeplearning] ("http://www.deeplearningbook.org/")  
  
 

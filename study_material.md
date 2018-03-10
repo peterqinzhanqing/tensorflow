@@ -1,1 +1,1 @@
-mit_deeplearning("http://www.deeplearningbook.org/")
+[**mit_deeplearning**]("http://www.deeplearningbook.org/")

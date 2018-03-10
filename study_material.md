@@ -1,5 +1,5 @@
 # deep learning
-
+[mit_deeplearning]("www.deeplearningbook.org/")  
 > reference
 - test1
 - test2
